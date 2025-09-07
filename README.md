@@ -1,4 +1,6 @@
 # energy-demand-week2
+Data is available in the main project repo: [[link-to-first-repo -->](https://github.com/lord-nirmalya/urbanenergydemand-week1.git)]
+
 <h1 align="center">⚡ Urban Energy Demand Forecasting – Week 2 Submission</h1>
 
 <p align="center">
